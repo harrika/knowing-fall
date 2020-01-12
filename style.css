@@ -21,3 +21,8 @@ li {
 	list-style-type: none;
 }
 
+li:hover {
+	border-bottom: 4px solid red;
+	background-color: yellow;
+}
+
